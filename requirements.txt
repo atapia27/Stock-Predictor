@@ -1,1 +1,3 @@
-pip install streamlit prophet yfinance plotly
+prophet 
+yfinance 
+plotly
