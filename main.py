@@ -4,7 +4,6 @@
 import csv
 import requests
 import streamlit as st
-import pystan as ps
 from datetime import date
 import yfinance as yf
 from prophet import Prophet
